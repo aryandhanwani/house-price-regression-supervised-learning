@@ -154,4 +154,5 @@ The following plots were created:
 The Q-Q plot was used to check whether the residuals approximately follow a normal distribution and to identify possible heavy tails.
 
 ---
-
+## Explanation Video :
+ - https://drive.google.com/file/d/1ApSYkNm88K6eoN1SyqO4SyMF-V427uo5/view?usp=sharing
