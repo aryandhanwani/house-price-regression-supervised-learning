@@ -155,9 +155,3 @@ The Q-Q plot was used to check whether the residuals approximately follow a norm
 
 ---
 
-## 💾 Saved Model
-
-The final model was saved as:
-
-```text
-house_price_model.pkl
